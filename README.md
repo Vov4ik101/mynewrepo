@@ -1,2 +1,2 @@
 # mynewrepo
-A repository created to learn connecting to GitHub remotedly.
+A repository created to learn connecting to GitHub remotedly. Yea man
